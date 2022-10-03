@@ -1,0 +1,1 @@
+document.querySelectorAll(".ps-title a")[4].style.textAlign = "right";

@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+.main{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 46px;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.output{
+    font-size: 20px;
+    margin: 1rem;
+    display: flex;
+    font-weight: 600;
+}
+#result{
+    color: blue;
+}

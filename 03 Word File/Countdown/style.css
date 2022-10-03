@@ -1,0 +1,23 @@
+body{background-color: blanchedalmond;}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15rem;
+}
+h1{font-size: 46px;}
+input{width: 40%;}
+#countdown{
+    margin: 1rem;
+    font-size: 24px;
+    color: red;
+}
+.btn{
+    margin: 0 10px;
+    border: none;
+    padding: 0.6rem 1rem;
+    border-radius: 10px;
+    background-color: aquamarine;
+    cursor: pointer;
+}

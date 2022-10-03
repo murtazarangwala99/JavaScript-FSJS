@@ -1,0 +1,29 @@
+body{
+    background-color: lightskyblue;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#heading{
+    font-size: 2.5rem;
+    margin-top: 15%;
+    margin-bottom: 2rem;
+    font-weight: 900;
+}
+#text{
+    width: 30%;
+    height: 2rem;
+    background-color: #c8d6db;
+}
+#btn{
+    padding: 0.5rem;
+    margin-top: 1rem;
+    border-radius: 10%;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}

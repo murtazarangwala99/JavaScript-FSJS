@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+body{
+    color: black;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    font-size: 52px;
+    margin-top: 4rem;
+}
+.mainBtn{
+    display: flex;
+    justify-content: right;
+}
+#btn{
+    background-color: #797878;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-right: 2rem;
+    font-size: 20px;
+    font-weight: 800;
+    cursor: pointer;
+}
+#main{
+    width: 100vw;
+    height: 100vh;
+}

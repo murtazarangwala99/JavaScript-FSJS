@@ -1,0 +1,26 @@
+body{
+    background-color: blanchedalmond;
+}
+#main{
+    display: inline-block;
+    border: 4px solid #2f2fa1;
+    margin: 4rem;
+    padding: 3rem;
+}
+#text{
+    font-size: 20px;
+}
+input{
+    width: 75%;
+    background-color: burlywood;
+}
+button{
+    padding: 0.7rem;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 0.3rem;
+    margin-right: 1rem;
+}
+#emi{
+    color: green;
+}
