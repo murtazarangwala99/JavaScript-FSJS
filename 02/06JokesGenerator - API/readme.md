@@ -10,7 +10,7 @@
 
 - It took me almost 2 hours 30 minutes to make this project. Please find the link below.
 
-  [Live Link Of Project]()
+  [Live Link Of Project](https://mk-bad-jokes.netlify.app/)
 
 ---
 

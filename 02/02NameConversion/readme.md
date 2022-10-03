@@ -6,11 +6,11 @@
 
 # JavaScript Accordion
 
-- This is Javascript Project. In this project I have made a **String Conversion** with JavasCript..
+- This is Javascript Project. In this project I have made a **String Conversion** with JavasCript.
 
 - It took me almost 3 hrs to make this project. Please find the link below.
 
-  [Live Link Of Project]()
+  [Live Link Of Project](https://word-conversion.netlify.app/)
 
 ---
 
@@ -18,9 +18,6 @@
 
 - JavaScript
 - To Use DOM
-- Creating Elements in Javascript
-- Adding Elements in HTML using JavaScript
-- Adding Attributes to the Elements
 
 ---
 

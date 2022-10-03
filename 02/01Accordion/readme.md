@@ -6,11 +6,11 @@
 
 # JavaScript Accordion
 
-- This is Javascript Project. In this project I have made a **Accordion** with JavasCript..
+- This is Javascript Project. In this project I have made a **ineuron Accordion** with JavasCript.
 
 - It took me almost 3 hrs to make this project. Please find the link below.
 
-  [Live Link Of Project]()
+  [Live Link Of Project](https://mk-accordion.netlify.app/)
 
 ---
 
