@@ -30,12 +30,12 @@
 
 ## 🙏 Special Thanks
 
-### [Hitesh Choudhary Sir](https://github.com/hiteshchoudhary)
+#### [Hitesh Choudhary Sir](https://github.com/hiteshchoudhary)
 
-### [Anurag Tiwari Sir](https://www.anuragtiwari.me/)
+#### [Anurag Tiwari Sir](https://www.anuragtiwari.me/)
 
-### [ineuron.ai](https://ineuron.ai/)
+#### [ineuron.ai](https://ineuron.ai/)
 
-### [learncodeonline.in](https://courses.learncodeonline.in/learn)
+#### [learncodeonline.in](https://courses.learncodeonline.in/learn)
 
 ---
