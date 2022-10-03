@@ -4,8 +4,6 @@
 
 ![badge](https://img.shields.io/badge/Tech-HTML%20CSS%20JS-brightgreen)
 
-# JavaScript Accordion
-
 - This is Javascript Project. In this project I have made a **Count down** with JavasCript..
 
 - It took me almost 45 minutes to make this project. Please find the link below.
